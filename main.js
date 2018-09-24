@@ -8,7 +8,7 @@ const levels = {
 }
 
 // Change level
-const currentLevel = levels.easy
+const currentLevel = levels.medium
 
 // Globals
 let time = currentLevel
